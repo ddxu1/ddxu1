@@ -1,4 +1,4 @@
-## Hi I'm Danny.
+## hi i'm danny
 * cs student at uw-madison
 * based out of san jose, ca
 * prev swe intern @ stripe, meta, apple
