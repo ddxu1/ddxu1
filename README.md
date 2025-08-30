@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi I'm Danny.
+* cs student at uw-madison
+* based out of san jose, ca
+* prev swe intern @ stripe, meta, apple
+* interested in data infra
 
 <!--
 **ddxu1/ddxu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
